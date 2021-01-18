@@ -73,7 +73,13 @@ Se requiere tener los materiales y equipos mencionados o a su vez tener una cuen
 
 8.-**APORTACIONES**
 
+- Al aplicar las mediciones, se recomienda no topar con los dedos o ninguna parte del cuerpo las puntas del multímetro, debido a que el cuerpo humano proporciona una resistencia propia, por lo que puede distorsionar el resultado real de la medición realizadas.
 
+- Es necesario realizar varias mediciones para comprobar que los valores obtenidos sean los correctos, además para que con los valores obtenidos teóricamente para evitar que en los resultados nos arroje datos erróneos. 
+
+- Para cambiar los valores de los resistores, se recomienda hacer uso de un potenciómetro, para facilitar el cambio a los distintos valores y optimizar el tiempo.
+
+- Verificar cada cierto tiempo que el voltaje que este pasado por el circuito sea el correcto, a veces por error humano suelen variar los valores. 
 
 9.-**CÁLCULOS**
 
@@ -93,6 +99,7 @@ https://unicrom.com/teorema-de-superposicion/
 
 12.-**ANEXOS**
 
+![proto](https://user-images.githubusercontent.com/75336529/104944649-8150a300-5985-11eb-9ef0-3620895cb4b1.jpeg)
 
 Imagen 1:Circuito armado en una protoboard
 
