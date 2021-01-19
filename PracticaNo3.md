@@ -119,18 +119,18 @@ Imagen 4:Voltaje medido cuando V2=0.
 
 Imagen 5:Voltaje medido cuando V1=0.
 
-![normal](https://user-images.githubusercontent.com/75336529/104863615-828dbb80-5904-11eb-8e38-ae75f79da103.png)
+![v20v12](https://user-images.githubusercontent.com/75336529/104982542-e386c380-59d8-11eb-8f9a-c9704a273e2c.png)
 
 Imagen 6:Corriente medida sin cambios en las fuentes.
 
-![i20](https://user-images.githubusercontent.com/75336529/104863611-7e619e00-5904-11eb-8f72-8d235e55e80e.png)
+![v02](https://user-images.githubusercontent.com/75336529/104982539-e2559680-59d8-11eb-9085-d76eca00a16a.png)
 
 Imagen 7:Corriente medida cuando V2=0.
 
-![i10](https://user-images.githubusercontent.com/75336529/104863605-7a358080-5904-11eb-9f37-bb71f733dec5.png)
+![v01](https://user-images.githubusercontent.com/75336529/104982536-e08bd300-59d8-11eb-9364-0f2f1c71eeab.png)
 
 Imagen 8:Corriente medida cuando V1=0.
 
-![medivion vi](https://user-images.githubusercontent.com/75336529/104863593-7144af00-5904-11eb-97df-16428d9905f6.png)
+![normaliaf](https://user-images.githubusercontent.com/75336529/104982530-de297900-59d8-11eb-9f1c-1cd50390b587.png)
 
 Imagen 9:Medida de corriente y voltaje sin cambios en las fuentes.
