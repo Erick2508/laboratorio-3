@@ -64,6 +64,7 @@ conclusiones.
 
 6.-**TABULACIÓN DE DATOS**
 
+![Datosss](https://user-images.githubusercontent.com/75336529/104984989-e932d800-59dd-11eb-87b3-7423003ff3da.png)
 
 7.-**DESCRIPCIÓN DE REQUISITOS Y CONFIGURACIÓN**
 
@@ -83,7 +84,9 @@ Se requiere tener los materiales y equipos mencionados o a su vez tener una cuen
 
 9.-**CÁLCULOS**
 
+![Calculo1](https://user-images.githubusercontent.com/75336529/104985312-a4f40780-59de-11eb-8ddb-19af691e26b7.jpeg)
 
+![calculo2](https://user-images.githubusercontent.com/75336529/104985317-a6bdcb00-59de-11eb-8ba2-74f42e93eb1c.jpeg)
 
 10.-**CONCLUSIONES**
 
